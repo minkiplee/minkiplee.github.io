@@ -11,6 +11,6 @@ Ann Arbor, MI<br>
 
 Email: minkilee [at] umich [dot] edu
 
-LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://www.linkedin.com/in/minki-lee-b214711a2/)
+LinkedIn: [<font color="#52ADC8">Minki_Lee</font>](https://www.linkedin.com/in/minki-lee-b214711a2/)
 
 <!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
