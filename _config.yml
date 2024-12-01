@@ -83,12 +83,11 @@ analytics:
 # Site Author
 author:
   name             : "Minki Lee"
-  avatar           : "IMG_8891_enhanced.JPG"
-  bio              : "Research Fellow,<br>
-                      Motion Analysis Laboratory,<br>
-                      Division of Orthopedic Surgery,<br>
-                      Mayo Clinic."
-  location         : "Rochester, MN, USA"
+  avatar           : "IMG_7885.jpg"
+  bio              : "Combined BS/MS student ,<br>
+                      Department of Mathematics,<br>
+                      University of Michigan."
+  location         : "Ann Arbor, MI, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=cMwhtDwAAAAJ&hl=en"
   email            : "minkilee@umich.edu"
