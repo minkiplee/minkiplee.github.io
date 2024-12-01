@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en) profile <br>
-<br>
 
 2024
 ------
@@ -21,7 +20,6 @@ Caleb Mayer, Dae Wook Kim, Meina Zhang, <b>Minki P Lee</b>, Daniel B Forger, Hel
 <b>[The combination of topological data analysis and mathematical modeling improves sleep stage prediction from consumer-grade wearables](https://journals.sagepub.com/doi/abs/10.1177/07487304241288607)</b> <br>
 <b>Minki P Lee</b> Dae Wook Kim, Caleb Mayer, Olivia Walch, Daniel B Forger.<br>
 <i>Journal of Biological Rhythms</i> (2024).
-<br>
 <br>
 
 2023
