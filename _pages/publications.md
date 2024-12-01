@@ -7,67 +7,31 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en) profile <br>
 <br>
 <br>
-<b>[Characterization of elbow flexion torque after nerve reconstruction of patients with traumatic brachial plexus injury](http://DrSGBhat.github.io/publications/ClinBio23)</b> <br>
-<i><b>Sandesh G Bhat</b></i>, Eric J Noonan, Griffin Mess, Emily J Miller, Alexander Y Shin, Kenton R Kaufman.<br>
-<i>Clinical Biomechanics</i>.
+<b>[The real-world association between digital markers of circadian disruption and mental health risks](https://www.nature.com/npjdigitalmed/)</b> <br>
+<i><b>Minki P Lee</b></i>, Dae Wook Kim, Yu Fang, Ruby Kim, Amy S B Bohenrt, Srijan Sen, Daniel B Forger.<br>
+<i>npj Digital Medicine</i> (2024).
 <br>
 <br>
-<b>[Muscle activation for targeted elbow force production following surgical reconstruction in adults with brachial plexus injury](http://DrSGBhat.github.io/publications/JOR23)</b> <br>
-<i><b>Sandesh G Bhat</b></i>, Emily J Miller, Alexander Y Shin, Kenton R Kaufman.<br>
-<i>Journal of Orthopaedic Research</i>.
+<b>[Predicting circadian phase in community-dwelling later-life adults using wearable data from a wrist-worn device.](https://onlinelibrary.wiley.com/journal/13652869)</b> <br>
+Caleb Mayer, Dae Wook Kim, Meina Zhang, <i><b>Minki P Lee</b></i>, Daniel B Forger, Helen J Burgess, Chooza Moon.<br>
+<i>Journal of Sleep Research</i> (2024).
 <br>
 <br>
-<b>[Order reduction of nonlinear quasi-periodic systems subjected to external excitations](http://DrSGBhat.github.io/publications/IJNLMorder)</b> <br>
-<i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Sangram Redkar.<br>
-<i>International Journal of Non-Linear Mechanics</i>.
+<b>[The combination of topological data analysis and mathematical modeling improves sleep stage prediction from consumer-grade wearables](https://journals.sagepub.com/doi/abs/10.1177/07487304241288607)</b> <br>
+<i><b>Minki P Lee</b></i>, Dae Wook Kim, Caleb Mayer, Olivia Walch, Daniel B Forger.<br>
+<i>Journal of Biological Rhythms</i> (2024).
 <br>
 <br>
-<b>[Dynamical Systems Theory and its Application to Human Gait Analysis](http://DrSGBhat.github.io/publications/PhDdiss)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>.<br>
-<i>PhD Dissertation, Arizona State University</i>.
+<b>[Wearable data assimilation to estimate the circadian phase](https://epubs.siam.org/doi/abs/10.1137/22M1509680?journalCode=smjmap)</b> <br>
+Dae Wook Kim, <i><b>Minki P Lee</b></i>, Daniel B Forger.<br>
+<i>SIAM Journal on Applied Mathematics</i> (2023).
 <br>
 <br>
-<b>[Application of Floquet Theory to Human Gait Kinematics and Dynamics](http://DrSGBhat.github.io/publications/JMRanalysis)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Susheelkumar C Subramanian, Thomas G. Sugar, Sangram Redkar.<br>
-<i>Journal of Mechanisms and Robotics</i>.
+<b>[Imputing missing sleep data from wearables with neural networks in real-world settings](https://academic.oup.com/sleep/article/47/1/zsad266/7306801?guestAccessKey=f6f99397-0704-4d2d-8705-42bbd21c546a&login=false&utm_source=authortollfreelink&utm_campaign=sleep&utm_medium=email)</b> <br>
+<i><b>Minki P Lee</b></i>, Kien Hoang, Sungkyu Park, Yun Min Song, Eun Yeon Joo, Won Chang, Jee Hyun Kim, Jae Kyoung Kim.<br>
+<i>Sleep</i> (2023).
 <br>
 <br>
-<b>[Reconstruction Of Ground Reaction Force Data Using Lyapunov Floquet Theory And Invariant Manifold Theory](http://DrSGBhat.github.io/publications/IDETCgrfrecon)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
-<i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
-<br>
-<br>
-<b>[Invariant Manifolds In Human Joint Angle Analysis During Walking Gait](http://DrSGBhat.github.io/publications/IDETCinvariant)</b> <br> 
-<b><i>Sandesh G. Bhat</i></b>, Thomas G. Sugar, Sangram Redkar.<br>
-<i>ASME 2020 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2020</b>.
-<br>
-<br>
-<b>[Design and Analysis of an Auto-Parametrically Excited Platform for Active Vibration Control](http://DrSGBhat.github.io/publications/IDETCthao)</b> <br> 
-Thao Le, <i><b>Sandesh G Bhat</b></i>, Susheelkumar C Subramanian, Peter MB Waswa, Sangram Redkar.<br>
-<i>ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference</i>. <b>IDETC-CIE 2019</b>.
-<br>
-<br>
-<b>[Analysis of a periodic force applied to the trunk to assist walking gait](http://DrSGBhat.github.io/publications/WearRA)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Susheelkumar Cherangara, Jason Olson, Sangram Redkar, Thomas G. Sugar.<br>
-<i>2019 Wearable Robotics Association Conference</i>. <b>WearRAcon 2019</b>.
-<br>
-<br>
-<b>[Volitional control of an active prosthetic ankle: a survey](http://DrSGBhat.github.io/publications/IRAJsurvey)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
-<i>International Robotics &amp; Automation Journal</i>.
-<br>
-<br>
-<b>[Design and Development of an Unmanned Underwater Vehicle (UUV) in the Form of a Cuttlefish](http://DrSGBhat.github.io/publications/IMECEuuv)</b> <br> 
-Susheelkumar Cherangara Subramanian, Thao Le, Jason Olson, <i><b>Sandesh G Bhat</b></i>, Sangram Redkar.<br>
-<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
-<br>
-<br>
-<b>[Development of a Passive Prosthetic Ankle With Slope Adapting Capabilities](http://DrSGBhat.github.io/publications/IMECEankle)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>, Sangram Redkar, Thomas G Sugar.<br>
-<i>ASME 2018 International Mechanical Engineering Congress and Exposition</i>. <b>IMECE 2018</b>.
-<br>
-<br>
-<b>[Design and Development of a Passive Prosthetic Ankle](http://DrSGBhat.github.io/publications/MStheses)</b> <br> 
-<i><b>Sandesh G Bhat</b></i>.<br>
-<i>Master of Science Theses, Arizona State University</i>.
-<br>
+<b>[Efficient assessment of real-world dynamics of circadian rhythms in heart rate and body temperature from wearable data](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2023.0030)</b> <br>
+Dae Wook Kim, Caleb Mayer, <i><b>Minki P Lee</b></i>, Sung Won Choi, Muneesh Tewari, Daniel B Forger.<br>
+<i>Journal of the Royal Society Interface</i> (2023).
