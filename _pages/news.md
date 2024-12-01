@@ -1,10 +1,9 @@
 ---
-<!-- layout: archive -->
 title: "News"
-permalink: /mews/
+permalink: /news/
 author_profile: true
-
 ------
+<br>
 - Nov 30th 2024. New website!
 - Nov 18th 2024. A new article has been published in the [Journal of Biological Rhythms](https://journals.sagepub.com/doi/abs/10.1177/07487304241288607)
 - Apr 16th 2024. I won the [Outstanding Achievement in Mathematics Award](https://lsa.umich.edu/math/undergraduates/awards--scholarships--and-prizes/departmental-awards.html)

@@ -24,8 +24,8 @@ main:
   # - title: "Student Advocacy"
   #   url: /stuadv/
     
-  # - title: "Contact"
-  #   url: /contact/  
+  - title: "Contact"
+    url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
