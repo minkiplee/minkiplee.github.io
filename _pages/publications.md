@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en) profile <br>
 <br>
 <br>
 <b>[Characterization of elbow flexion torque after nerve reconstruction of patients with traumatic brachial plexus injury](http://DrSGBhat.github.io/publications/ClinBio23)</b> <br>
