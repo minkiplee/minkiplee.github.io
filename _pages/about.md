@@ -14,24 +14,26 @@ Education
 ------
 - M.S. in Mathematics (Applied Math track) from the University of Michigan - Ann Arbor.
 - B.S. in Honors Mathematics from the University of Michigan - Ann Arbor.
-- Aspiring physician scientist and a current applicant to MD/PhD programs.
+<!-- - Aspiring physician scientist and a current applicant to MD/PhD programs. -->
 
 Biomedical research interests
 ------
-- Computational psychiatry
-- Circadian rhythms 
-- Sleep-wake cycles
-- Personalized medical monitoring through digtal platforms (e.g., Mobile technologies and Wearables) 
+- <font color="#52ADC8">Computational psychiatry</font>:
+  - Real-time prediction of mood episodes
+- <font color="#52ADC8">Circadian rhythms and Sleep</font>:
+  - Impact of circadian and sleep misalignment on relevant chronic diseases
+- <font color="#52ADC8">Personalized medicine</font>:
+  - real-time monitoring of individual health through digtal platforms (e.g., Mobile technologies and Wearables) 
 
 Mathematical and theoratical research interests
 ------
-- Nonlinear state-space estimation: 
+- <font color="#52ADC8">Nonlinear state-space estimation</font>: 
   - Nonlinear Kalman filtering
   - Bayesian filtering
-- Time series data analysis
+- <font color="#52ADC8">Time series data analysis</font>: 
   - Topological data analysis
   - Anomaly detection
-- Differential equations: 
+- <font color="#52ADC8">Differential equations</font>: 
   - Stochastic differential equations
   - Fokker-Planck equation
   - Parameter estimation

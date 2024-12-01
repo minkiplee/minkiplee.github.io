@@ -1,13 +1,15 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV.pdf
+  - title: "News"
+    url: /news/
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "CV"
+    url: /files/CV.pdf
 
-  - title: "News"
-    url: /news/
+
 
   # - title: "Awards & Honors"
   #   url: /awards/
