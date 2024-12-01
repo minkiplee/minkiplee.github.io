@@ -24,7 +24,7 @@ Caleb Mayer, Dae Wook Kim, Meina Zhang, <b>Minki P Lee</b>, Daniel B Forger, Hel
 
 2023
 ------
-<b>[Wearable data assimilation to estimate the circadian phase](https://epubs.siam.org/doi/abs/10.1137/22M1509680?journalCode=smjmap)</b> <br>
+<b>[Wearable data assimilation to estimate the circadian phase](https://epubs.siam.org/eprint/VDW7CYGCD6AEYKMCD7EP/full)</b> <br>
 Dae Wook Kim, <b>Minki P Lee</b>, Daniel B Forger.<br>
 <i>SIAM Journal on Applied Mathematics</i> (2023).
 <br>
