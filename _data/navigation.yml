@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv/files/CV.pdf
 
   - title: "Publications"
     url: /publications/
@@ -15,14 +15,14 @@ main:
   #- title: "Photography"
   #  url: /Photography/    
     
-  - title: "My Travel"
-    url: /mytravel/
+  # - title: "My Travel"
+  #   url: /mytravel/
         
-  - title: "Student Advocacy"
-    url: /stuadv/
+  # - title: "Student Advocacy"
+  #   url: /stuadv/
     
-  - title: "Contact"
-    url: /contact/  
+  # - title: "Contact"
+  #   url: /contact/  
     
   # - title: "Guide"
     # url: /markdown/
