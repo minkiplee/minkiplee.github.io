@@ -5,11 +5,11 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en) profile <br>
 <br>
-<br>
+
 2024
 ------
 <b>[The real-world association between digital markers of circadian disruption and mental health risks](https://www.nature.com/npjdigitalmed/)</b> <br>
-<b>Minki P Lee</b>, Dae Wook Kim, Yu Fang, Ruby Kim, Amy S B Bohenrt, Srijan Sen, Daniel B Forger.<br>
+<b>Minki P Lee</b>, Dae Wook Kim, Yu Fang, Ruby Kim, Amy SB Bohenrt, Srijan Sen, Daniel B Forger.<br>
 <i>npj Digital Medicine</i> (2024).
 <br>
 <br>
@@ -23,6 +23,7 @@ Caleb Mayer, Dae Wook Kim, Meina Zhang, <b>Minki P Lee</b>, Daniel B Forger, Hel
 <i>Journal of Biological Rhythms</i> (2024).
 <br>
 <br>
+
 2023
 ------
 <b>[Wearable data assimilation to estimate the circadian phase](https://epubs.siam.org/doi/abs/10.1137/22M1509680?journalCode=smjmap)</b> <br>
