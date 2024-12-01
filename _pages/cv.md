@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Sandesh Bhat"
-permalink: /cv/CV.pdf
+permalink: /files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
