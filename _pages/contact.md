@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Rochester, MN<br>
+Ann Arbor, MI<br>
 
-Email: mrsandeshbhat [at] gmail [dot] com
+Email: minkilee [at] umich [dot] edu
 
-LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://in.linkedin.com/in/mrsandeshbhat)
+LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://www.linkedin.com/in/minki-lee-b214711a2/)
 
 <!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->

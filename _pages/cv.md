@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Sandesh Bhat"
-permalink: /cv/
+permalink: /cv/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
+<!-- Curriculum Vitae (long) [PDF](https://DrSGBhat.github.io/files/Bhat_CV.pdf)
 
 
 Education
@@ -59,4 +59,4 @@ Service and leadership
 * Director of Outreach, Polytechnic Campus (Graduate and Professional Student Association) (August 2020 - May 2021)
 * Engineering Assembly member (Graduate and Professional Student Association) (August 2019 - May 2020)
 * Student Body President (Mechanical Engineering Students Association) (August 2015 - May 2016)
-* Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015)
+* Treasurer (Mechanical Engineering Students Association) (August 2014 - May 2015) -->
