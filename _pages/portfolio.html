@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+<font size="2.5" color="#8cd2d5">{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}</font>
+
