@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my articles on my [Google Scholar]([https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en](https://scholar.google.com/citations?user=cMwhtDwAAAAJ&hl=en)) profile <br>
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=cMwhtDwAAAAJ&hl=en) profile <br>
 
 2024
 ------
