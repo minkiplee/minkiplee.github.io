@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* <i>Dec 5th 2024</i>.   A new [<font color="#52ADC8">article</font>](https://www.nature.com/articles/s41746-024-01348-6) has been published in <i>npj Digital Medicine</i>. <be>
 * <i>Nov 18th 2024</i>.   A new [<font color="#52ADC8">article</font>](https://journals.sagepub.com/doi/abs/10.1177/07487304241288607) has been published in the <i>Journal of Biological Rhythms</i>. <be>
 * <i>July 5th 2024</i>.   I attended the 2024 Society for Mathematical Biology Annual Conference in Seoul, South Korea, and won a best poster presentation award. <br>
 * <i>May 22nd 2024</i>.   I attended the 2024 Society for Research on Biological Rhythm Biennial Conference at San Juan, Puerto Rico. <br>
