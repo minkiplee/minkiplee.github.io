@@ -7,7 +7,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 2024
 ------
-<b>[The real-world association between digital markers of circadian disruption and mental health risks](https://www.nature.com/npjdigitalmed/)</b> <br>
+<b>[The real-world association between digital markers of circadian disruption and mental health risks](https://www.nature.com/articles/s41746-024-01348-6)</b> <br>
 <b>Minki P Lee</b>, Dae Wook Kim, Yu Fang, Ruby Kim, Amy SB Bohnert, Srijan Sen, Daniel B Forger.<br>
 <i>npj Digital Medicine</i> (2024).
 <br>
