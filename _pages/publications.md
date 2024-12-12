@@ -12,7 +12,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 <i>npj Digital Medicine</i> (2024).
 <br>
 <br>
-<b>[Predicting circadian phase in community-dwelling later-life adults using wearable data from a wrist-worn device.](https://onlinelibrary.wiley.com/journal/13652869)</b> <br>
+<b>[Predicting circadian phase in community-dwelling later-life adults using wearable data from a wrist-worn device.](https://onlinelibrary.wiley.com/doi/10.1111/jsr.14425)</b> <br>
 Caleb Mayer, Dae Wook Kim, Meina Zhang, <b>Minki P Lee</b>, Daniel B Forger, Helen J Burgess, Chooza Moon.<br>
 <i>Journal of Sleep Research</i> (2024).
 <br>
