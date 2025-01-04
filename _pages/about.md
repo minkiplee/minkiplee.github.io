@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. I am currently a combined BS/MS student in Mathematics at the University of Michigan - Ann Arbor. I am studying mathematical and computational biology under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
+Hello and welcome to my website. I am currently a research scientist at the University of Michigan - Ann Arbor Department of Mathematics. I received my Bachelor's and Master's degree in Mathematics at the University of Michigan - Ann Arbor. I am studying mathematical and computational biology under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
 
 Education
 ------
