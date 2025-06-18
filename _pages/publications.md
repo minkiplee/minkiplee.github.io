@@ -5,6 +5,13 @@ author_profile: true
 ---
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=cMwhtDwAAAAJ&hl=en) profile <br>
 
+2025
+------
+<b>[Seasonal timing and interindividual differences in shiftwork adaptation](https://www.nature.com/articles/s41746-025-01678-z)</b> <br>
+Ruby Kim, Yu Fang, <b>Minki P Lee</b>, Dae Wook Kim, Zhengxu Tang, Srijan Sen, Daniel B Forger.<br>
+<i>npj Digital Medicine</i> (2025).
+<br>
+
 2024
 ------
 <b>[The real-world association between digital markers of circadian disruption and mental health risks](https://www.nature.com/articles/s41746-024-01348-6)</b> <br>
