@@ -21,8 +21,6 @@ Biomedical research interests
   * Real-time prediction of depressive symptoms
 * <font color="#52ADC8">Circadian rhythms and Sleep</font>
   * Impact of circadian and sleep misalignment on relevant depression, fatigue, or substance addiction
-* <font color="#52ADC8">Personalized medicine</font>
-  * real-time monitoring of individual health through digtal platforms (e.g., mobile technologies and wearables) 
 
 Mathematical and theoratical research interests
 ------
