@@ -7,8 +7,8 @@ author_profile: true
 2025
 ------
 * <i>May 28, 2025</i>.  A new [<font color="#52ADC8">paper</font>](https://www.nature.com/articles/s41746-025-01678-z) has been published in  <i>npj Digital Medicine</i>. <be>
-* <i>Apr 3, 2025</i>.  I wrote a [<font color="#52ADC8">blog post</font>](https://sleepdata.org/blog/2025/04/the-combination-of-topological-data-analysis-and-mathematical-modeling-improves-sleep-stage-prediction-from-consumer-grade-wearables) on the National Sleep Research Resource to share my [<font color="#52ADC8">paper</font>](https://journals.sagepub.com/doi/10.1177/07487304241288607) on the Journal of Biological Rhythms through<be>
-* <i>Feb 5, 2025</i>.  I presented at the Biological Research Information Center Seminar at POSTECH <be>
+* <i>Apr 3, 2025</i>.  I wrote a [<font color="#52ADC8">blog post</font>](https://sleepdata.org/blog/2025/04/the-combination-of-topological-data-analysis-and-mathematical-modeling-improves-sleep-stage-prediction-from-consumer-grade-wearables) on the National Sleep Research Resource to share my [<font color="#52ADC8">paper</font>](https://journals.sagepub.com/doi/10.1177/07487304241288607) on the Journal of Biological Rhythms.<be>
+* <i>Feb 5, 2025</i>.  I presented at the Biological Research Information Center Seminar at POSTECH. <be>
 
 2024
 ------
