@@ -19,8 +19,10 @@ Biomedical research interests
 ------
 * <font color="#52ADC8">Computational psychiatry</font>
   * Real-time prediction of depressive symptoms
+  * Biomarker development for depression  
 * <font color="#52ADC8">Circadian rhythms and Sleep</font>
-  * Impact of circadian and sleep misalignment on relevant depression, fatigue, or substance addiction
+  * Impact of circadian and sleep misalignment on relevant psychiatric disorders, fatigue, or substance addiction
+  * Circadian regulation of serotonin secretion and inhibition
 
 Mathematical and theoratical research interests
 ------
