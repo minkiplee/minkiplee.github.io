@@ -12,7 +12,7 @@ Hello and welcome to my website. I am an MD/PhD student in the [Medical Scientis
 
 Education
 ------
-- MD/PhD, Columbia University (current).
+- M.D./Ph.D., Columbia University (current).
 - Mathematics M.S. (Applied Math track), University of Michigan - Ann Arbor.
 - Mathematics B.S., University of Michigan - Ann Arbor.
 
