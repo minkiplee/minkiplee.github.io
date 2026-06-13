@@ -84,10 +84,9 @@ analytics:
 author:
   name             : "Minki (Phillip) Lee"
   avatar           : "IMG_7948.jpg"
-  bio              : "Research Scientist,<br>
-                      Department of Mathematics,<br>
-                      University of Michigan."
-  location         : "Ann Arbor, MI, USA"
+  bio              : "M.D.,/Ph.D. student,<br>
+                      Columbia University,<br>"
+  location         : "New York, NY, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=cMwhtDwAAAAJ&hl=en"
   email            : "minkilee@umich.edu"
