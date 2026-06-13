@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. I am an MD/PhD student in the [Medical Scientist Training Program (MSTP)](https://www.vagelos.columbia.edu/education/academic-programs/md-dual-degrees-and-special-programs/md-phd-dual-degree-program) at the Columbia University Vagelos College of Physicians and Surgeons. Previously, I was a research scientist at the University of Michigan - Ann Arbor Department of Mathematics. I received my Bachelor's and Master's degrees in Mathematics at the University of Michigan - Ann Arbor under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
+Hello and welcome to my website. I am an MD/PhD student in the [Medical Scientist Training Program (MSTP)](https://www.vagelos.columbia.edu/education/academic-programs/md-dual-degrees-and-special-programs/md-phd-dual-degree-program) at the Columbia University Vagelos College of Physicians and Surgeons. Previously, I was a research scientist in the Department of Mathematics at the University of Michigan - Ann Arbor. I received my Bachelor's and Master's degrees in Mathematics at the University of Michigan - Ann Arbor under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
 
 Education
 ------
@@ -25,7 +25,7 @@ Biomedical research interests
   * Impact of circadian and sleep misalignment on relevant psychiatric disorders, fatigue, or substance addiction
   * Circadian regulation of serotonin secretion and inhibition
 
-Mathematical and theoratical research interests
+Mathematical and theoretical research interests
 ------
 * <font color="#52ADC8">Nonlinear state-space estimation</font> 
   * Nonlinear Kalman filtering
