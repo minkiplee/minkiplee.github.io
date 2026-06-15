@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. I am an M.D./Ph.D. student in the [Medical Scientist Training Program (MSTP)](https://www.vagelos.columbia.edu/education/academic-programs/md-dual-degrees-and-special-programs/md-phd-dual-degree-program) at the Columbia University Vagelos College of Physicians and Surgeons. Previously, I was a research scientist in the Department of Mathematics at the University of Michigan - Ann Arbor. I received my Bachelor's and Master's degrees in Mathematics at the University of Michigan - Ann Arbor under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
+Hello and welcome to my website. I am an M.D./Ph.D. student in the [Medical Scientist Training Program (MSTP)](https://www.vagelos.columbia.edu/education/academic-programs/md-dual-degrees-and-special-programs/md-phd-dual-degree-program) at Columbia University Vagelos College of Physicians and Surgeons. Previously, I was a research scientist in the Department of Mathematics at the University of Michigan - Ann Arbor. I received my Bachelor's and Master's degrees in Mathematics under the supervision of Professor [Daniel Forger](https://websites.umich.edu/~forger/). 
 
 Education
 ------
 - M.D./Ph.D., Columbia University (current).
-- Mathematics M.S. (Applied Math track), University of Michigan - Ann Arbor.
+- Mathematics M.S., University of Michigan - Ann Arbor.
 - Mathematics B.S., University of Michigan - Ann Arbor.
 
 Biomedical research interests
