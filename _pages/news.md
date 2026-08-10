@@ -4,6 +4,10 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+2026
+------
+* <i>Aug 7, 2025</i>.  I have begun my MD/PhD training at the Columbia Universiy <be>
+
 2025
 ------
 * <i>May 28, 2025</i>.  A new [<font color="#52ADC8">paper</font>](https://www.nature.com/articles/s41746-025-01678-z) has been published in  <i>npj Digital Medicine</i>. <be>
