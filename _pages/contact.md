@@ -9,8 +9,8 @@ author_profile: true
 
 60 Haven Ave, New York, NY<br>
 
-Email: ml5585 [at] cumc [dot] columbia [dot] edu <be>
-       minkilee [at] umich [dot] edu <be>
+Email: ml5585 [at] cumc [dot] columbia [dot] edu <br>
+       minkilee [at] umich [dot] edu <br>
        minkimklee [at] gmail [dot] com
 
 
