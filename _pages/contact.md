@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Ann Arbor, MI<br>
+60 Haven Ave, New York, NY<br>
 
-Email: minkilee [at] umich [dot] edu
+Email: ml5585 [at] cumc [dot] columbia [dot] edu <be>
+       minkilee [at] umich [dot] edu <be>
+       minkimklee [at] gmail [dot] com
+
 
 LinkedIn: [<font color="#52ADC8">Minki Lee</font>](https://www.linkedin.com/in/minki-lee-b214711a2/)
 
