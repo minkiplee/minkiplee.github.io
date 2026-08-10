@@ -6,7 +6,8 @@ author_profile: true
 ---
 2026
 ------
-* <i>Aug 7, 2025</i>.  I have begun my MD/PhD training at the Columbia University Vagelos College of Physicians and Surgeons. <be>
+* <i>Aug 7, 2025</i>.  I began my MD/PhD training at the Columbia University Vagelos College of Physicians and Surgeons. <be>
+* <i>Jun 15, 2025</i>.  I joined the lab of Dr. Orson Xu in the Department of Biomedical Informatics at Columbia University. <be>
 
 2025
 ------
