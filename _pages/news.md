@@ -6,7 +6,7 @@ author_profile: true
 ---
 2026
 ------
-* <i>Aug 7, 2025</i>.  I have begun my MD/PhD training at the Columbia Universiy <be>
+* <i>Aug 7, 2025</i>.  I have begun my MD/PhD training at the Columbia University Vagelos College of Physicians and Surgeons. <be>
 
 2025
 ------
