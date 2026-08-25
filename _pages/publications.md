@@ -7,14 +7,14 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Preprints
 ------
-<b>[Mapping the landscape of behavior-induced circadian disruption across psychiatric disorders]()</b> <br>
+<b>[Mapping the landscape of behavior-induced circadian disruption across psychiatric disorders (2026+)]()</b> <br>
 <b>Minki Lee</b>, Ruby Kim, Amy Cochran, Dae Wook Kim, Daniel B Forger.<br>
-Under review at <i>Nature Human Behaviour</i> (2026+).
+Under review at <i>Nature Human Behaviour</i>.
 <br>
 <br>
-<b>[Feasibility of longitudinal sleep monitoring among Kenyan healthcare workers using wearable technology]()</b> <br>
+<b>[Feasibility of longitudinal sleep monitoring among Kenyan healthcare workers using wearable technology (2026+)]()</b> <br>
 Willie Njoroge, David Andai, <b>Minki Lee</b>, Andrew Aballa, Linda Khakali, Rachel Maina, Elena Frank, Lukoye Atwoli, Zhenke Wu, Anthony K Ngugi, Srijan Sen, Amos Bunde, Jasmit Shah, Dorcas G Mwigereri, James Orwa, Akbar K Waljee, Amina Abubakar, Zul Merali, Daniel B Forger.<br>
-Under review at <i>NPJ Biological Timing & Sleep</i> (2026+).
+Under review at <i>NPJ Biological Timing & Sleep</i>.
 <br>
 
 2025
