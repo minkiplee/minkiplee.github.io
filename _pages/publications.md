@@ -8,7 +8,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Preprints
 ------
 <b>[Mapping the landscape of behavior-induced circadian disruption across psychiatric disorders (2026+)]()</b> <br>
-<b>Minki Lee</b>, Ruby Kim, Amy Cochran, Dae Wook Kim, Daniel B Forger.<br>
+<i><b>Minki Lee</b></i>, Ruby Kim, Amy Cochran, Dae Wook Kim, Daniel B Forger.<br>
 Under review at <i>Nature Human Behaviour</i>.
 <br>
 <br>
